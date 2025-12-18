@@ -1,5 +1,4 @@
-import java.util.Scanner;
-
+import java.util.Scanner
 /**
  * Problem-2: Generate a series of 'a' odd numbers based on input 'a'.
  * Example: if a = 4, output is 1, 3, 5, 7
